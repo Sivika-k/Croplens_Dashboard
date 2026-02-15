@@ -1,7 +1,6 @@
 Rice Price Prediction System
 
-This project uses Machine Learning techniques to predict rice prices 
-using historical and real-time data.
+This project predicts rice prices using Machine Learning models.
 
 Models Used
 - Gradient Boosting
@@ -12,12 +11,20 @@ Features
 - Data preprocessing
 - Feature engineering
 - PCA
-- Model evaluation using MAE, RMSE, MAPE
+- MAE, RMSE, MAPE evaluation
 
-How to Run
-1. Install required libraries
+ How to Run
+1. Install requirements
 2. Run train_gbm.py
 3. Run app.py
 
-Author
+Project Output
+
+Screenshot 1
+![Output 1](output1.png)
+
+Screenshot 2
+![Output 2](output2.png)
+
+## Author
 Sivika K
